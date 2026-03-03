@@ -35,5 +35,4 @@ Recommended checks:
 - Load-use hazard triggers **stall**
 - Branch triggers correct **PC update + flush**
 
-## Author
-Lina Al Tamimi Farah Mahmoud
+
